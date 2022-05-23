@@ -1,4 +1,4 @@
-int pwmled = 6;
+int pwmled = 5;
 
 void setup() {
   // put your setup code here, to run once:
